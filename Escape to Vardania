@@ -1,0 +1,276 @@
+Working Title: Escape to Vardania
+ 
+The house with no heart stands solitary, far from the hustle and bustle of town. Its creaks and sighs grow louder as the two of you approach; wind whistling through windows every bit as broken as the solemn promises once made in Ernald Manor’s long lonely halls. “Oh wow” you flatly say, knowing your husband David (never Dave) will decide if you are being sarcastic or not depending on his mood.
+Your feet feel heavy as you slowly make your way up the crooked path which cuts through the overgrown, almost jungle-like garden. Red roses once bloomed here, but they were all strangled by weeds a long time ago. “It’s quite something, isn’t it?” David enthusiastically says as you near the front door. A lopsided smile stretches across his face as he eagerly awaits your reply. “David…”
+ 
+CHOICE 1: …it’s perfect. // Note: Each “CHOICE” goes to a “CONSEQUENCE”
+CHOICE 2: …it’s like something out of a horror film.
+CHOICE 3: …we can’t live here!  
+ 
+CONSEQUENCE 1: // Note: This is where “CHOICE 1” goes
+“…it’s perfect. I can’t believe you bought us a mansion!” you say, trying desperately to match his smile with your own, hoping against hope that this was what your temperamental husband wanted to hear. Alas, he snorts at your reply. “Well, technically it’s a manor – not a mansion. There is a difference, you know. And it’s not perfect. To be honest, it was due to be condemned, but I had a friend on the Council pull a few strings, and…well…here we are.”
+Your eyes widen at his words. “Wait. You…you bought us a condemned house?” 
+ 
+He lets out an irritable sigh, then impatiently replies, “Look, it’s not as bad as it sounds. It’s just that after the murders, no one really wanted to live here. Now, let’s head inside. It looks like rain.”
+“Murders?!”  // Variable: “MurdersMentioned”
+ 
+CONSEQUENCE 2:
+“…it’s like something out of a horror film,” you honestly reply. David furrows his brow and retorts, “A horror film? That’s kind of vague, don’t you think? I mean, what genre are we talking? Slasher, paranormal, or psychological?” A shiver runs down your spine as you assess your new home once more, then you finally answer, “It’s all three. It’s definitely all three.” He laughs mirthlessly. “Well, as far as I know there’s no ghosts.”
+ 
+CONSEQUENCE 3:
+“…we can’t live here! Look at this place. It’s a dump!” you say, desperately hoping your husband tells you he was joking, and your much nicer home is actually hidden behind this hellhole. David snarls, “I’ve got to be somewhere close to my new job, and this was…look. Can’t you just try being a little more supportive? This isn’t easy for me either. New country, new home. But the opportunity was too good to refuse.”
+Frowning, you think, ‘I hate this place already. And you at least speak the language…’
+
+// Rejoin Story Here
+ 
+David turns the old iron key in the lock, opens the front door and hastily ushers you inside, as if fearing you might flee if left to your own devices. Though the exterior view of the property was bad, the interior somehow manages to be even worse. The foyer’s floor is caked in dirt, dust and something that squelches underfoot as you accidentally step in it.
+ 
+
+// IF Variable MudersMentioned START
+“Is that blood?!” you ask, pointing to a dull, rusty brown stain in the corner of the room. David shrugs his shoulders. “How should I know?” he quickly replies.
+“Please tell me you were joking about someone being murdered here,” you ask.
+“All right, fine…I was joking,” he replies a little too easily.
+// IF Variable MurdersMentioned END
+
+David takes your hand in his and leads you down dusty, winding corridors. “David…this place is filthy!” you groan. He coldly answers, “Well, I’m sure it won’t take you long to get it clean. I mean, you’re good at that sort of thing, right? And it’s not like you’ve got anything better to do while I’m working.”
+ 
+Your whole body tenses at his words. Part of you wants to argue with him, but conflicts with David never seem to end in your favour.
+‘Still…should I say something?’
+ 
+CHOICE 1: [Stay silent.]
+CHOICE 2: “Nothing better to do?!”
+CHOICE 3: Maybe if I sing, I can summon some help.
+ 
+CONSEQUENCE 1:
+David squeezes your hand a little tighter – his recently manicured nails somehow still managing to dig into your hand a little.
+“Let’s move on,” he utters – words which lie closer to a command than a suggestion.  
+“Okay.”
+ 
+CONSEQUENCE 2:
+“Nothing better to do?! You don’t like it when I work! You’ve moved us to this place where I literally know nobody! That makes it kind of hard for me to find something better to do, don’t you think?!” you irritably reply.
+He replies with a swift slap to your left cheek that causes you to gasp. // VARIABLE: SwiftSlap
+“I’m sorry, but you were being hysterical. You’re done now with that nonsense now though, right?”
+As your body still trembles with fright, you nervously nod your head. He smiles at you.
+“Good. Then let’s move on.”
+ 
+CONSEQUENCE 3:
+“Maybe if I sing, I can summon some help,” you reply, hoping to diffuse the situation with humour. He seems confused by your reference.
+“I don’t follow.”
+“You know…like in Disney movies? Snow white starts singing or whatever, and a bunch of cute woodland critters come running to help her clean.”
+Shaking his head, David laughs at you rather than with you.
+“Trust me. Even cute woodland critters don’t want to hear your singing voice! Now, let’s move on already.”
+His words cut deeper than you dare admit. Some days David can be quite sweet to you. Evidently today is not one of those days.
+‘My mum used to say I had a lovely singing voice,’ you think forlornly. But where is she now? Half a world away, across the ocean, in a country you used to call home. Now there is only David.
+“Let’s move on. There’s a whole lot more of the manor to check out.”
+ 
+
+// Rejoin Story Here
+
+
+David eagerly leads you by the hand down one grime-stained corridor after another, opening doors seemingly at random before sagely nodding his head at the contents within. 
+“Yes…this room really has some potential, don’t you think?”
+His question is only met by silence. 
+‘How’s that saying go? If you don’t have anything nice to say, don’t say anything at all.’
+He stops again by a door which stands at the end of an especially dark corridor (both bulbs from the light fixture are missing, presumed dead), David scowls as he shakes his head. 
+“No, this can’t be right,” he mutters under his breath. 
+“David, what is it?”
+“This room, it wasn’t on any of the floorplans. It shouldn’t be here.” 
+You carefully consider how best to respond. 
+
+CHOICE 1: Maybe the floorplans are out of date?
+CHOICE 2: Well, I guess it’s not really here then. 
+CHOICE 3: What do you think’s inside that room?
+
+CONSEQUENCE 1: 
+“Maybe the floorplans are out of date? Someone could’ve done some work to the house recently or something,” you guess. He scoffs at your suggestion. 
+“Sweetie, who the hell do you think added an extra room? Nobody’s lived here for years!”
+“I don’t know! Maybe someone was squatting here and –“
+He cuts you off mid-sentence.
+“Don’t be ridiculous.” 
+You are about to protest, but something in the tone of his voice makes you think better of it. There are things which hurt much worse than a few harsh words. And sadly, some of those he has already shown to you previously.  Instead, you settle on asking him…
+“David, why didn’t you show me the floorplans before we moved in here?”
+He seems a little confused by your question at first, then nonchalantly shrugs his shoulders.
+“I guess I didn’t think it mattered.” 
+“Oh. Okay,” you reply, while feeling far from okay with his explanation. 
+‘It doesn’t matter…or I don’t matter?’
+
+CONSEQUENCE 2: 
+“Well, I guess it’s not really here then. I mean, if the man with the plan says there’s no room…”
+Shrugging your shoulders, you trail off and allow David’s imagination to fill the blanks. He narrows his eyes at you. 
+“Are you trying to be funny?” he asks, daring you to tease him again. 
+“No David! I mean, you’re not laughing, so it can’t have been a joke, right?”
+Visibly relaxing a little, David scoffs, “Not a very good one, anyway.” 
+“Erm…David? When were you going to show me those floorplans?”
+“I wasn’t,” he quickly replies, “I mean, why would I?”
+Your mouth hangs open for a moment as you consider which barb to send flying in his direction, then you think better of it and close your mouth again. 
+‘Why would he tell me anything about the place before we move in? Is he serious right now?’
+
+CONSEQUENCE 3: 
+“What do you think’s inside that room?”, you ask. He replies with a shrug. 
+“I don’t know. I don’t have X-Ray vision, do I?”
+“Use your imagination!” you snap back a little more forcefully than you had intended. 
+“Sure, I could do that. Or I could just open the door,” he slowly says, as if addressing a particularly dim-witted child.
+You nod your head in the direction of the door.
+“Go on then!” 
+
+// Rejoin Story Here
+
+David apprehensively reaches out for the doorknob and tries to turn it, but…
+“Damn it. It’s locked,” he groans. 
+“And you don’t have a key?”
+“I told you it wasn’t even on the plan, so why would I have a key? Look, I’ll ask the estate agent about the room when I’m in town later.” 
+You are about to suggest leaving when you hear a pleasant sound coming from behind the door.  
+“David, do…do you hear that?” you ask. 
+“Hear what?” he replies, clearly bewildered by the question.
+‘Am I just imagining it?’, you wonder.
+
+CHOICE 1: [Lean in and listen to the sound.]
+CHOICE 2: [Ignore the sound.]
+
+CONSEQUENCE 1: 
+Ignoring David’s protests, you press an ear against the door and focus on the sound. 
+‘It sounds like a waterfall. And there’s something else. Is…is someone singing?!’ 
+Muffled as it is by the door, you struggle to make out the words of the song, but it is still undeniably pleasant.  
+Realising how crazy it would sound to David, you decide to keep your thoughts to yourself. 
+David clamps one hand on your shoulder. 
+“I hope you’re finished doing…whatever it is you’re doing,” he impatiently says.
+“Why? What do you have in mind?” you ask. 
+
+CONSEQUENCE 2: 
+You decide against further investigating the sound. 
+‘It’s probably just my imagination playing tricks on me anyway,’ you decide. 
+David clamps one hand down on your shoulder and smiles at you flirtatiously. 
+“Erm…David? What are you doing?” you nervously ask.
+
+// Rejoin Story Here
+
+
+“I’ve got to go to work soon, but first, how about we Christen the house?”
+“Huh? Wait…” you disbelievingly reply. 
+
+CHOICE 1: You’re working today?
+CHOICE 2: What do you mean, Christen the house?
+
+CONSEQUENCE 1: 
+“You’re working today? But…but it’s our first day here!” you protest. 
+“I’m a surgeon, honey! And a damned good one. People need me. You know that,” he groans. 
+“How long do we have?” 
+He glances at his watch and smiles. 
+“Just long enough to have a little fun.” 
+
+CONSEQUENCE 2: 
+“What do you mean, Christen the house? It’s already got a name, right? Emald Manor?”
+He shakes his head. 
+“No, not like that. I mean…you know…sexually! It’s a tradition!”
+“It is? Since when?!” you ask incredulously. 
+“Since now.” 
+
+// Rejoin Story Here
+
+
+“Now…kneel for me and open your mouth,” he demands. 
+ When it comes to sex, David usually takes charge. And sometimes, you even like it. But is this really one of those times? This has definitely not been one of David’s good days. 
+ 
+// IF Variable SwiftSlap Start
+‘Wait. First, he slaps me, and now he wants me to suck his cock? I’m not really going to do that, am I?’
+// IF Variable SwiftSlap End
+
+// IF NO Variable SwiftSlap Start
+‘He’s leaving me alone in this ugly home in the middle of nowhere, but first he wants some “fun”? Am I okay with that?’
+// IF NO Variable SwiftSlap Start
+
+Well? Are you?
+
+CHOICE 1: [Go down on David.]
+CHOICE 2: David, I’m not doing that! 
+
+CONSEQUENCE 1: 
+Trying desperately to ignore how filthy the floor is, you obediently kneel in front of David and open your mouth. 
+“Say aah,” he jokingly commands you as he unzips his flies to reveal his already erect penis. 
+“Aaaah!”
+As you suspected, David stifles your voice by ramming his cock inside of your mouth. Reaching out, he grips the back of your head with both hands and excitedly thrusts back and forth. 
+“Oh…oh god, you’ve got such a fuckable face!” he loudly exclaims as he continues – now moving even faster than before. 
+“Mmm…mmmpf!” is all you’re able to say by way of reply. It is hard to speak with your mouthful. And right now, it feels very full! 
+David seems encouraged by your attempt at speech. He thrusts deeper still – causing you to gag on him a little. 
+“That’s it…that’s it! Take it all in. I’m almost there now,” he urges. 
+In the past, you have enjoyed going down on people. Savoured the feel and taste of them in your mouth. Felt pleasure in hearing every gleeful little moan and groan they make as you sucked, stroked and licked your lovers closer and closer to the point of climax. 
+But is this truly one of those times? For years, David has been your only sexual partner. And it has been longer still since you were with any other man. Do his guttural groans still move you as a part of you feels they still should…
+…or is a sense of relief all that you feel when he finally comes to a shuddering climax? 
+“Swallow it all. That’s it,” he says – not releasing his grip on your head until you comply. 
+Only then does he pull out and make himself presentable again. He glances at the clock. 
+“I’ve got to go now. Good luck with getting the place clean while I’m away.”
+And with that, he turns and leaves. In the distance, you hear the manor’s front door groaning irritably as David opens it, before noisily being closed again with a loud clang. 
+“You’re welcome,” you sadly whisper, though the corridor still sits every bit as empty as you feel. 
+
+CONSEQUENCE 2: 
+“David, I’m not doing that! You drag me to this dirty place, and then you –“ 
+Yelling, David cuts you off mid-sentence. 
+“Then I what? What the hell have I done, huh, except buy us a fucking manor house?!”
+“Well…you’ve not exactly set the mood. Maybe next time you might want to wine and dine me a little,” you dare to say aloud, before thinking...
+‘And maybe it’d help if you weren’t such a shit to me earlier…’
+To your disgust, David spits on the floor. 
+“So, you’re not a sex goddess after all,” he begins, “Then I guess I should hope you’re a domestic goddess instead, huh?”
+“Excuse me?”
+He gestures with both of his hands at the room you’re in. 
+“You said it. This place is dirty. So, I guess there’s plenty for you to do while I’m at work.”
+“Huh?!”
+“Clean the manor from top to bottom. I really need you to support me with this. I know you won’t let me down.”
+He leaves without waiting for you to reply, slamming the front door shut behind him. 
+
+// Rejoin Story Here
+
+As you consider your next move, you are distracted a little by the manor’s many unwanted sounds once more. Water drip, dripping through a leaky roof. Rain angrily pelting against what windows still stand unbroken. The tired creak of the floorboards as you tap, tap your feet against them indecisively. 
+‘Should I do some cleaning?’
+Just as you are about to make your decision, you hear a sound coming from behind the door that shouldn’t exist once more. It seems a little louder now. 
+‘Huh? What should I do?’
+
+CHOICE 1: [Focus on cleaning for now.] 
+CHOICE 2: [Don’t clean and focus on the door.]
+
+CONSEQUENCE 1: 
+Imagining David’s reaction if he returns home tonight to find you’ve made no attempt to clean, you force yourself to turn away from the door and spend the next few hours sweeping, mopping, and polishing the manor. 
+‘Phew! I’m beat! Well, I’ve not cleaned all the mansion, but it’s better than nothing, right?’
+The empty mansion offers nothing in reply. 
+‘Alright, now let’s see if something strange is still going on behind that door!’
+Returning to the mysterious door, you find that it now stands wide open! 
+
+CONSEQUENCE 2: 
+‘Screw it. Whatever’s going on behind that door, it sounds a hell of a lot more fun than cleaning!’
+You reach a hand towards the doorknob and before you can touch it…
+…the door swings open all by itself! 
+
+// Rejoin Story Here
+
+Through the doorway, you are shocked to see a purple, shimmering portal. Colourful waves of energy pulsate before you. And from somewhere on the other side of it, you can hear the pleasant sound of a man singing. 
+‘This can’t be real! What should I do?’
+
+CHOICE 1: [Step through the portal]. 
+CHOICE 2: [Try to run away from the portal!]
+
+CONSEQUENCE 1: 
+Summoning up all your courage, you close your eyes and step forward through the portal. 
+
+CONSEQUENCE 2: 
+You turn away from the portal and attempt to flee, only to feel a magical force take hold of your body and drag you into it! 
+“AAAARGH!”
+
+// Rejoin Story Here
+
+You find yourself stood on the bank of a beautiful lake. On the far side of it, a waterfall roars rhythmically as it cascades into the lake. Yet even over the roar of the waterfall, you can clearly hear the man singing in a strange language you do not understand. 
+The first thing you notice about the man is his nakedness With his back to you, his muscular body and firm behind seem to be every bit as enthralling as his delightful singing is…perhaps even more so! 
+It is only after fully taking in his lower body that you notice what sprouts from the top of his head. 
+‘He…he has antlers! Silver, shimmering antlers! What should I do?!’ 
+
+CHOICE 1: [Silently watch the man a little longer.] 
+CHOICE 2: [Yell at the man.]
+
+CONSEQUENCE 1: 
+Practically drooling at the mouth, you continue to gaze at the strange but undeniably handsome man. Your appreciation only grows when he turns to face you to reveal a handsome face…and the longest penis you have ever seen! 
+
+CONSEQUENCE 2: 
+“Hey you!” you call out as loud as you can. 
+The man turns to face you. Unfortunately, you do not have long to take in his handsome face. 
+
+// Rejoin Story Here
+
+Lowering his antlers, he charges straight for you! 
